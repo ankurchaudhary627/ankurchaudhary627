@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankur Chaudhary</h1>
 <h3 align="center">A passionate Software Developer from India.</h3>
 
-- 🔭 I’m currently working in [cloudThing India](https://www.cloudthing.com/)
+- 🔭 I’m currently working in [Scripbox India](https://scripbox.com/)
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
